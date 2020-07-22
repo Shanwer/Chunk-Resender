@@ -1,0 +1,10 @@
+name: ChunkResender
+version: 1.0.0
+
+author: Shanwer
+
+main: top.shanwer.resender
+
+commands:
+  resend:
+    usage: /resend
